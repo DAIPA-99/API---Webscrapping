@@ -1,0 +1,19 @@
+# Ignorer les fichiers contenant des identifiants sensibles
+kaggle.json
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les fichiers de configuration d'IDE spécifiques
+.vscode/
+.idea/
+
+# Ignorer les environnements virtuels
+env/
+venv/
+
+# Ignorer d'autres fichiers temporaires ou générés
+*.log
+*.tmp
